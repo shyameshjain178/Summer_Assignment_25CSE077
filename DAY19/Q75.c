@@ -1,5 +1,6 @@
 // transpose matrix
 
+#include<stdio.h>
 int main()
 {
 int r,c,i,j,a[10][10];
