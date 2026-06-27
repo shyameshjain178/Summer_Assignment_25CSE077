@@ -1,4 +1,4 @@
-// transpose matrix#include<stdio.h>
+// transpose matrix
 
 int main()
 {
