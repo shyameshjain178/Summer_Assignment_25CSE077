@@ -1,5 +1,6 @@
-// diagonal sum#include<stdio.h>
+// diagonal sum
 
+#include<stdio.h>
 int main()
 {
 int n,i,j,a[10][10],sum=0;
